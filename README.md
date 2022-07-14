@@ -91,9 +91,9 @@ Last revisited on 19.06.2022
 
 ### Background knowledge 
 
-Collett et al. 1998 PNAS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC23706/
-Cressman 2016 https://www.researchgate.net/publication/301261147_Desert_Locust
-Guo et al. 2020 Nature https://www.nature.com/articles/s41586-020-2610-4
-Simpson et al. 2001 PNAS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC31149/
-UN-FAO https://www.fao.org/locusts-cca/bioecology/what-are-locusts/en/#:~:text=In%20solitary%20phase%20(low%20numbers,which%20behave%20as%20an%20entity
-Wired https://www.wired.com/story/the-terrifying-science-behind-the-locust-plagues-of-africa/
+Collett et al. 1998 PNAS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC23706/  
+Cressman 2016 https://www.researchgate.net/publication/301261147_Desert_Locust  
+Guo et al. 2020 Nature https://www.nature.com/articles/s41586-020-2610-4  
+Simpson et al. 2001 PNAS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC31149/  
+UN-FAO https://www.fao.org/locusts-cca/bioecology/what-are-locusts/en/#:~:text=In%20solitary%20phase%20(low%20numbers,which%20behave%20as%20an%20entity  
+Wired https://www.wired.com/story/the-terrifying-science-behind-the-locust-plagues-of-africa/  
