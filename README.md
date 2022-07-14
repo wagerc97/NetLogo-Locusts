@@ -3,8 +3,8 @@
 
 ## WHAT IS IT?
 
-The locusts species __Schistocerca gregaria__ has two lifestyle phases to deal with environmental changes that exhibit their own behavior. They live on grass patches in the desert. High density populations will trigger a phase change and "gregarious" locusts appear. They form swarms and search the desert for food. When they find a grass patch they will land and start to eat. After distributing over the patch the phase change may trigger again as the density reduces. Then "solitary" locusts will roam the area on their own looking for food.  
-- Presentation slides can be viewed [here](./Model of Spatial Dynamics of Desert Locust Populations.pdf)
+The locusts species __Schistocerca gregaria__ has two lifestyle phases to deal with environmental changes that exhibit their own behavior. They live on grass patches in the desert. High density populations will trigger a phase change and "gregarious" locusts appear. They form swarms and search the desert for food. When they find a grass patch they will land and start to eat. After distributing over the patch the phase change may trigger again as the density reduces. Then "solitary" locusts will roam the area on their own looking for food.   
+**Presentation slides can be viewed [here](./slides.pdf)**
 
 **This is what the NetLogo interface looks like:**
 ![model-interface](https://user-images.githubusercontent.com/75813930/178964935-748d6c29-81eb-499f-9ea8-d07f601078ca.png)
