@@ -5,8 +5,9 @@
 
 The locusts species __Schistocerca gregaria__ has two lifestyle phases to deal with environmental changes that exhibit their own behavior. They live on grass patches in the desert. High density populations will trigger a phase change and "gregarious" locusts appear. They form swarms and search the desert for food. When they find a grass patch they will land and start to eat. After distributing over the patch the phase change may trigger again as the density reduces. Then "solitary" locusts will roam the area on their own looking for food.  
 
+[interface_github](https://user-images.githubusercontent.com/75813930/178964780-3382e306-8d20-475c-9456-6bc0cce65fae.png)
 
-## HOW IT WORKS
+## HOW IT WORKS!
 
 ### Environment 
 When the model is set up, it spawns grass patches in random places that may overlap. Some patches remain desert and never grow any grass. Grass patches hold certain amount of food. We altered this parameter as well as the number and the size of patches to answer our research questions. 
