@@ -1,7 +1,9 @@
 # Model of Spatial Dynamics of Desert Locust Populations
-**Quicklinks:**  
-- [Run the model](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain) right now on [NetLogo User Community Models](http://ccl.northwestern.edu/netlogo/models/community/index.cgi) and see how it works
-- [Presentation slides](./slides.pdf) to view
+## Quicklinks 
+- [Presentation slides](./slides.pdf) with all the background knowledge for this project. Also includes result, discussion and conclusion.
+- [Source code](./locusts_rain.nlogo) on github is also published on the [Netlogo User Community](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain)
+- You can also [run the model](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain) right now on the NetLogo User Community homepage, but preferably on a strong PC as the model requires quite some computational power to run smoothly. 
+
 
 
 ## WHAT IS IT?
