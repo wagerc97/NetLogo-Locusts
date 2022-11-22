@@ -91,7 +91,7 @@ We used some principles form the Wolf-and-Sheep Model which is also part of the 
 
 ## CREDITS AND REFERENCES
 
-Authors: Jeremy Cook and Clemens Wager
+Authors: Jeremy Cook and Clemens Wager  
 Last revisited on 19.06.2022    
 
 ### Background knowledge 
