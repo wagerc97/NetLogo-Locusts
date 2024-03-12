@@ -2,7 +2,7 @@
 ## Quicklinks 
 - [Presentation slides](./slides.pdf) with all the background knowledge for this project. Also includes result, discussion and conclusion.
 - [Source code](./locusts_rain.nlogo) on github is also published on the [Netlogo User Community](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain)
-- You can also [run the model](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain) right now on the NetLogo User Community homepage, but preferably on a strong PC as the model requires quite some computational power to run smoothly. 
+- You can also [run the model](https://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/community/locusts_rain.nlogo) now on the [NetLogo Community](http://ccl.northwestern.edu/netlogo/models/community/locusts_rain) website. 
 
 
 
